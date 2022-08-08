@@ -1,0 +1,505 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5783,
+                "name": "误杀2",
+                "poster": "https://pic.maizuo.com/usr/100000865/b1fb1e2fc8432204be6063a35e3c39ae.png",
+                "actors": [
+                    {
+                        "name": "戴墨",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a2fe73c0f927df0ca6976ec7ac83c1bb.jpg"
+                    },
+                    {
+                        "name": "肖央",
+                        "role": "林日朗",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3ce5eeb8f056391d655c2d0a6ec35675.jpg"
+                    },
+                    {
+                        "name": "任达华",
+                        "role": "张正义",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/56087e1d22305c93dc9c30441f0b60e0.jpg"
+                    },
+                    {
+                        "name": "文咏珊",
+                        "role": "阿玲",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f49488508236909fa3fbff9bb3142218.jpg"
+                    },
+                    {
+                        "name": "陈雨锶",
+                        "role": "李安琪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e94b8c5537f3bd46714798b36be2b205.jpg"
+                    }
+                ],
+                "director": "戴墨",
+                "category": "剧情|犯罪|家庭",
+                "synopsis": "林日朗（肖央 饰）与妻子阿玲、儿子小虫一直过着清贫但幸福的生活，直到儿子小虫突发意外急需救治，几经周折，走投无路的林日朗为了救儿子决定放手一搏。他制定了一个惊天计划.....",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1639699200,
+                "timeType": 3,
+                "runtime": 118,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5771,
+                "name": "反贪风暴5：最终章",
+                "poster": "https://pic.maizuo.com/usr/movie/9925b0eee1286938f2a0c2461a69f9b6.jpg",
+                "actors": [
+                    {
+                        "name": "林德禄",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6fac87b2e4c10422e02b4dec64f6b533.jpg"
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": "陆志廉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/673ea3b3c6e077a7ce30611666769fc8.jpg"
+                    },
+                    {
+                        "name": "张智霖",
+                        "role": "廖保强",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1c3fa38b45ece43275d66770b748680a.jpg"
+                    },
+                    {
+                        "name": "郑嘉颖",
+                        "role": "程德明",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/066ab459ca8b8dc183c9744fa80e859e.jpg"
+                    },
+                    {
+                        "name": "宣萱",
+                        "role": "庞爱玛",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/641267cbae70ef4e056112129c0e01f2.jpg"
+                    }
+                ],
+                "director": "林德禄",
+                "category": "犯罪|动作",
+                "synopsis": "港片最卖座经典 IP 之一，反贪系列最终章强势归来，最后一役燃爆开战，贪腐大案即刻终结。 ICAC 首席调查主任陆志廉(古天乐饰)与总调查主任程德明(郑嘉颖饰)共同调查走私贪污案，意外发现另一起涉及人口贩卖的海关贪腐大案。此案与恐袭集团首脑 King 及其幕后指使人肖卓亚(谢天华饰)有关，并牵涉多名香港海关高层领导，且似乎与受邀到香港、被 JFIU 廖保强(张智霖饰)秘密保护的亚洲首席大法官庞爱玛(宣萱饰)也有联系。正邪交锋势如水火，看廉署雷霆打击巨贪恶营……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港,中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1640908800,
+                "timeType": 3,
+                "runtime": 95,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5791,
+                "name": "穿过寒冬拥抱你",
+                "poster": "https://pic.maizuo.com/usr/movie/ae096d3014bc0b6298ce9aa1c693a474.jpg",
+                "actors": [
+                    {
+                        "name": "薛晓路",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a1ec26dfc577e07ecdebef12228f3170.jpg"
+                    },
+                    {
+                        "name": "黄渤",
+                        "role": "阿勇",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2d5501fb41248d1a69bf872bd70dcb7c.jpg"
+                    },
+                    {
+                        "name": "贾玲",
+                        "role": "武哥",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/577c7d72a1908638a805b4be88aeb791.jpg"
+                    },
+                    {
+                        "name": "朱一龙",
+                        "role": "叶子扬",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/52ce4957dc2ffbfae2073c572d79ee7b.jpg"
+                    },
+                    {
+                        "name": "徐帆",
+                        "role": "刘亚兰",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7243c5d701c4b699e6c95042a08b67ba.jpg"
+                    }
+                ],
+                "director": "薛晓路",
+                "category": "剧情|爱情",
+                "synopsis": "2020年1月23日，农历腊月二十九，武汉宣布封城。年度压轴情感大片《穿过寒冬拥抱你》聚焦这一特殊时刻，以温情和治愈为基调，刻画了普通市民守望相助，真挚动人的爱情群像。快递员阿勇（黄渤饰），骑手武哥（贾玲饰），钢琴老师叶子扬（朱一龙饰），中年夫妇刘亚兰（徐帆饰）和李宏宇（高亚麟饰），退休老医生谢咏琴（吴彦姝饰）和餐厅老板沛爷（许绍雄饰）。疫情下，爱给了他们勇气和力量，挺身而出成为志愿者。他们以笑做盾，以爱为矛，冲破凛冽寒冬和恐惧，勇敢拥抱。爱在武汉的烟火气下蔓延，抵御一切苦难，最终见证奇迹。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1640908800,
+                "timeType": 3,
+                "runtime": 124,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5795,
+                "name": "爱情神话",
+                "poster": "https://pic.maizuo.com/usr/movie/4e28490b931e087079fcdd4b08c0ae50.jpg",
+                "actors": [
+                    {
+                        "name": "邵艺辉",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c167bfe1f052f3d835b86bd89beec74e.jpg"
+                    },
+                    {
+                        "name": "徐峥",
+                        "role": "老白",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2a4f5646931ac27743363df7bbcf12e.jpg"
+                    },
+                    {
+                        "name": "马伊琍",
+                        "role": "李小姐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2c871f8ad957bd5ef00dd0798ec2a403.jpg"
+                    },
+                    {
+                        "name": "吴越",
+                        "role": "蓓蓓",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff10f45033da340facc0eb14e3c34fe1.jpg"
+                    },
+                    {
+                        "name": "倪虹洁",
+                        "role": "格洛瑞亚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b024687ff1a38225bb0abfcbc149ba.jpg"
+                    }
+                ],
+                "director": "邵艺辉",
+                "category": "爱情|剧情",
+                "synopsis": "李小姐，带着女儿过着单身生活。蓓蓓，离婚后热衷跳探戈。格洛瑞亚，有钱有闲老公失踪。三 个完全不同的女人因为老白而产生了交集。上海爷叔老白自称杂家，专门教老年人画画。老白的好友老乌 谈吐风趣，一生追逐浪漫。几顿饭局，让老白家的客厅成为了众人的聚会点。三女两男，在上海这座摩登 之都里，凭借智慧、幽默过招，描摹出多样的市井烟火。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1640304000,
+                "timeType": 3,
+                "runtime": 112,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5808,
+                "name": "李茂扮太子",
+                "poster": "https://pic.maizuo.com/usr/movie/145f96a0e1f71c67bfeab493d3d6f705.jpg",
+                "actors": [
+                    {
+                        "name": "高可",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/253610dca4b140eb229d07f8863379ab.jpg"
+                    },
+                    {
+                        "name": "马丽",
+                        "role": "杨家珍",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/db148a38e7f0ec4bad847e16fbccfb34.jpg"
+                    },
+                    {
+                        "name": "常远",
+                        "role": "李茂/太子",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b90844a543d30dd8cc1011a05b360999.jpg"
+                    },
+                    {
+                        "name": "艾伦",
+                        "role": "杨父",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6dc17d804b91e04b3a64bd4240813440.jpg"
+                    },
+                    {
+                        "name": "魏翔",
+                        "role": "皇上",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a980fe2fa21b31ac5e8b3e297139aafd.jpg"
+                    }
+                ],
+                "director": "高可",
+                "category": "喜剧",
+                "synopsis": "富家女杨家珍与小捕快李茂成婚，虽夫妻恩爱，但始终得不到家珍父母的认可。李茂意外发现自己竟与当朝太子相貌相同，一个想进宫获得晋升，一个想出宫获得自由，二人交换身份，却不知正一步步卷入尚书的阴谋里……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1640995200,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5780,
+                "name": "雄狮少年",
+                "poster": "https://pic.maizuo.com/usr/100000865/30e763e74f49b7b7d4c1ac4c568fa18c.png",
+                "actors": [
+                    {
+                        "name": "孙海鹏",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/41c0ac1ec9265ccc4c9a4cbaf845cdc5.jpg"
+                    }
+                ],
+                "director": "孙海鹏",
+                "category": "动画|喜剧",
+                "synopsis": "本片讲述了留守少年阿娟和好友阿猫、阿狗在退役狮王咸鱼强的培训下参加舞狮比赛，经过重重磨砺，从病猫变成雄狮的成长故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1639699200,
+                "timeType": 3,
+                "runtime": 104,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5793,
+                "name": "以年为单位的恋爱",
+                "poster": "https://pic.maizuo.com/usr/movie/40e49cd8362c3092cf626a1a145ba3fc.jpg",
+                "actors": [
+                    {
+                        "name": "黎志",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff71645effddec9861484b251c8ac8bb.jpg"
+                    },
+                    {
+                        "name": "毛晓彤",
+                        "role": "陆鹿珊",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b1fc94308642058ec3e85ce9029875cb.jpg"
+                    },
+                    {
+                        "name": "杨玏",
+                        "role": "江宇",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/81b88ecfbc116b7009aa9ec3ccea1505.jpg"
+                    },
+                    {
+                        "name": "孙千",
+                        "role": "崔喜",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6830ecba101025ecc085c9bc5361acaf.jpg"
+                    },
+                    {
+                        "name": "张海宇",
+                        "role": "老白",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8338e8af17ec298c02f034df365b3d84.jpg"
+                    }
+                ],
+                "director": "黎志",
+                "category": "剧情|爱情",
+                "synopsis": "一起跨过年的人，一辈子都不会忘记。电影《以年为单位的恋爱》讲述跨年夜当天，独在异乡打拼的酒店经理陆鹿珊（毛晓彤 饰）和创业中的江宇（杨玏 饰）因一场推介活动相识，两人惺惺相惜，感情在跨年夜的烟火中升温，在好友崔喜（孙千 饰）、合伙人老白（张海宇 饰 ）的帮助下，迅速展开恋情。同无数普通情侣一样，他们从如胶似漆浓情蜜意到无话可说隔阂渐显，短短一年，难逃一“痒”。好像，两个人并没有想象中那么合适。她热烈、干练、渴望安全感，对生活有着明确的目标；他木讷、内向、有着不成熟的孩子气，把未来想得有点简单。现实压力、情感困惑，在共度的第二个跨年夜，一起爆发了……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1640908800,
+                "timeType": 3,
+                "runtime": 103,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5761,
+                "name": "古董局中局",
+                "poster": "https://pic.maizuo.com/usr/movie/19fde18ced3f7e95618a467daf8f2f5b.jpg",
+                "actors": [
+                    {
+                        "name": "郭子健",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f6fb131a753b3491492799a06d85bade.jpg"
+                    },
+                    {
+                        "name": "雷佳音",
+                        "role": "许愿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/588839c8a41ba4c6f595a9619d64450d.jpg"
+                    },
+                    {
+                        "name": "李现",
+                        "role": "药不然",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/338ab7d64df18a44823bac2b211adecb.jpg"
+                    },
+                    {
+                        "name": "葛优",
+                        "role": "付贵",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e3a8611db3495957171541cececae121.jpg"
+                    },
+                    {
+                        "name": "辛芷蕾",
+                        "role": "黄烟烟",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b811fada14288f198825b7dcde8727b4.jpg"
+                    }
+                ],
+                "director": "郭子健",
+                "category": "剧情|悬疑|冒险",
+                "synopsis": "一尊价值连城的佛头，牵扯出古玩界惊天骗局！民国年间文物界权威组织“五脉”掌门许一城，将武则天明堂佛头送至海外，被定罪为汉奸。半个世纪后，佛头归还，指明要许一城的后人，许家第三代许愿出面接收。许愿虽有一身鉴古本事，却因父亲许和平当年抛下自己而一蹶不振，混迹市井，如今佛头现世，五脉黄家后人黄烟烟又为他带来父亲离奇死亡的消息，许愿被卷入古董界的漩涡之中。寻宝重任、家族冤屈、五脉天才药不然的步步紧逼、祖父故交付贵的追随和神秘人老朝奉的追击……许愿必须摆脱各方势力的纠缠，还要赶在回归仪式开始之前，查明佛头的真相。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1638489600,
+                "timeType": 3,
+                "runtime": 123,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5741,
+                "name": "扬名立万",
+                "poster": "https://pic.maizuo.com/usr/movie/1d5e0db13aa75d5235a0b69bc560818a.jpg",
+                "actors": [
+                    {
+                        "name": "刘循子墨",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c2d3f2e466da4dfbec0312456534f5a9.jpg"
+                    },
+                    {
+                        "name": "尹正",
+                        "role": "李家辉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff0bae3ffb9a3f812d018ed3af7a68ac.jpg"
+                    },
+                    {
+                        "name": "邓家佳",
+                        "role": "苏梦蝶",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a3d36f16fd3ddcfc7eb9b37f4aae1d21.jpg"
+                    },
+                    {
+                        "name": "喻恩泰",
+                        "role": "郑千里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/29839521b0c13c8326f953c74a3c7465.jpg"
+                    },
+                    {
+                        "name": "杨皓宇",
+                        "role": "关静年",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f7456d44d51f1dfd59b304c78257b56f.jpg"
+                    }
+                ],
+                "director": "刘循子墨",
+                "category": "悬疑|剧情",
+                "synopsis": "月黑风高之夜，一群电影人被秘密召集到一起，欲将轰动一时的血案翻拍成电影，借此扬名立万。殊不知他们正身处案发现场，并步步陷入一个巨大迷局之中，而凶手就在他们中间……伴随着利欲熏天的创作风暴，案件背后的故事似乎也更加扑朔迷离，戏中戏、案中案、局中局、人外人，环环相扣，一场野心与良心的较量愈演愈烈。究竟是命悬一线，还是另有惊天逆转？爱与温暖的血色花又能否从快将干涸的血河中终极绽放？一切都有待揭开。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1636588800,
+                "timeType": 3,
+                "runtime": 123,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5792,
+                "name": "跨过鸭绿江",
+                "poster": "https://pic.maizuo.com/usr/movie/c212b9900be8753a5e646a51353e1a65.jpg",
+                "actors": [
+                    {
+                        "name": "董亚春",
+                        "role": "总导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8ba75ef85bb6f19d907e57eae22a3c43.jpg"
+                    },
+                    {
+                        "name": "丁勇岱",
+                        "role": "彭德怀",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b54b6654bff8c93816c072ff3b02dacd.jpg"
+                    },
+                    {
+                        "name": "唐国强",
+                        "role": "毛泽东",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a29b0532f68e2170ef9cca8a015e2cc.jpg"
+                    },
+                    {
+                        "name": "孙维民",
+                        "role": "周恩来",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0ce0702e9bc2d15e60babc02f264fcca.jpg"
+                    },
+                    {
+                        "name": "王志飞",
+                        "role": "聂荣臻",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/eab46e5a170e711272ef843fcd8dd178.jpg"
+                    }
+                ],
+                "director": "董亚春",
+                "category": "剧情|历史|战争",
+                "synopsis": "《跨过鸭绿江》是一部“全景式、史诗性”展现抗美援朝战争的电影作品。影片以中国人民志愿军司令员兼政治委员彭德怀的视角讲述，全面展示了从战前国际形势的快速演变到板门店停战协议的签署，涉及中国人民志愿军对战以美国为首的“联合国军”的整个抗美援朝战争过程。影片不仅具备东西两线和五次战役的全时空格局，还呈现了突袭战、防御战、运动战、阵地战和坑道战等多场不同特质的激烈战斗场面，在讲述国际格局突变时中、苏、美三国领导人作战指挥思想博弈的同时，影片展现了毛泽东等无产阶级革命家的战略思维，也展示了以彭德怀为统帅的指挥员们的战场谋略，以及全体志愿军战士用生命捍卫和平正义、保家卫国的爱国主义精神，全方位呈现出我们为赢得这场艰苦卓绝、震撼人心的伟大战争的最后胜利所做的牺牲和努力。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1639699200,
+                "timeType": 3,
+                "runtime": 154,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 30
+    },
+    "msg": "ok"
+}
